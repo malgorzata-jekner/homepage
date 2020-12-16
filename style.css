@@ -1,0 +1,40 @@
+body{
+    background-color: aquamarine;
+}
+
+
+
+h1{
+    color: blue;
+}
+p{
+    color: darkblue;
+}
+h2{
+    color: darkmagenta;
+}
+h3{
+    color: darkorchid;
+}
+
+.hotpink-header{
+    color: hotpink;
+}
+
+#top{
+    background-color: rgb(0, 128, 122);
+}
+
+nav a {
+    color: black;
+}
+
+a {
+    color: rgb(20, 0, 0);
+}
+header a {
+    color: grey;
+}
+.header {
+    background-color:yellow;
+}
